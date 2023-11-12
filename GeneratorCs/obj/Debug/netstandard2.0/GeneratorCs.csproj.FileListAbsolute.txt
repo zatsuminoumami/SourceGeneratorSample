@@ -1,0 +1,10 @@
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\bin\Debug\netstandard2.0\GeneratorCs.deps.json
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\bin\Debug\netstandard2.0\GeneratorCs.dll
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\bin\Debug\netstandard2.0\GeneratorCs.pdb
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.csproj.AssemblyReference.cache
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.AssemblyInfoInputs.cache
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.AssemblyInfo.cs
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.csproj.CoreCompileInputs.cache
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.dll
+C:\Users\81904\source\repos\GeneratorCs\GeneratorCs\obj\Debug\netstandard2.0\GeneratorCs.pdb
